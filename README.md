@@ -31,8 +31,6 @@ not !（只表示逻辑非）
 + -
 * / DIV % MOD
 
-暂时用main.cpp运行实现直接输入，到时候把server.cpp换回来就行。况且oj上也有不同要求
-可以参考https://www.cnblogs.com/cdf-opensource-007/p/6502556.html
 
 create database oop;
 use oop;
