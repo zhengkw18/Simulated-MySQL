@@ -49,7 +49,7 @@ AaA     BBb     C       adddate("2000-10-19", 0)        3 Mod 0 2 div 5
 支持根据多个关键字排序，按照出现的先后顺序权重递减
 为了输出count(*)，把all（忽略大小写）作为保留关键字供内部转换使用，不能用作别名、字段名
 
-group和order过了样例，oj上还没提交
+group和order过了样例；过了oj
 
 一个稍复杂的联合语句：
 CREATE DATABASE OOP;
